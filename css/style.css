@@ -23,6 +23,7 @@ span {
 }
 .container-fluid {
     background-color: #038cae;
+    border: 2px solid #038cae;
 }
 .navbar-default .navbar-brand {
   color: white;
